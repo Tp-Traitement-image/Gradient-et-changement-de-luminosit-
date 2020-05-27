@@ -1,0 +1,2 @@
+﻿  LoadImage.cpp
+opencv_world430d.lib(opencv_world430d.dll) : fatal error LNK1112: type d'ordinateur module 'x64' en conflit avec le type d'ordinateur cible 'x86'
